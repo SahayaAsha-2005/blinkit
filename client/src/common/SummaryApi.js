@@ -1,4 +1,5 @@
-export const baseURL = "http://localhost:8080"
+export const baseURL = "https://blinkit-1nlz.onrender.com"
+// export const baseURL = "http://localhost:8080"
 
 const SummaryApi = {
     register : {
